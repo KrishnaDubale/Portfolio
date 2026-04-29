@@ -1,14 +1,9 @@
-# 🧑‍💻 Rudraksh Rathod — Developer Portfolio
+# 🧑‍💻 Krishna Dubale — Developer Portfolio
 
 A GitHub-profile-inspired dark-mode portfolio website showcasing my projects, tech stack, and real GitHub contribution activity.
 
-🔗 **Live Site:** [rudra-codee.github.io](https://github.com/Rudra-codee)
+🔗 **Live Site:** [krishnadubale.github.io](https://krishnadubale.github.io/Portfolio/)
 
----
-
-## 📸 Preview
-
-![Portfolio Preview](./assets/preview.png)
 
 ---
 
@@ -24,15 +19,8 @@ A GitHub-profile-inspired dark-mode portfolio website showcasing my projects, te
 
 ---
 
-## 🗂️ Projects Featured
 
-| Project | Category | Stack |
-|---|---|---|
-| [Uber & Ola Ride Analytics and Cancellation Optimization](https://github.com/Rudra-codee) | Python | Pandas, Streamlit, Analytics |
-| [Agentic Customer Retention Assistant](https://github.com/Rudra-codee) | AI / Agents | LLMs, Python, Agents |
-| [The ExoPlanets Project](https://github.com/Rudra-codee) | Space / ML | Scikit-learn, Jupyter, ML |
 
----
 
 ## 🛠️ Tech Stack
 
@@ -46,7 +34,7 @@ A GitHub-profile-inspired dark-mode portfolio website showcasing my projects, te
 
 ```bash
 # Clone the repo
-git clone https://github.com/Rudra-codee/portfolio.git
+git clone https://github.com/KrishnaDubale/portfolio.git
 
 # Open in browser
 open index.html
@@ -63,8 +51,8 @@ portfolio/
 ├── styles.css          # GitHub dark theme styles
 ├── script.js           # Filter, search, modal logic
 └── assets/
-    ├── Rudraksh.jpeg   # Profile photo
-    ├── uber_ola.png    # Project cover — Ride Analytics
+    ├── Krishna.jpeg   # Profile photo
+    ├── Flight_delay.png    # Project cover — Ride Analytics
     ├── agentic.png     # Project cover — Agentic Assistant
     └── exoplanets.png  # Project cover — ExoPlanets
 ```
@@ -73,11 +61,11 @@ portfolio/
 
 ## 📬 Connect
 
-- **GitHub:** [github.com/Rudra-codee](https://github.com/Rudra-codee)
-- **LinkedIn:** [linkedin.com/in/rudraksh-rathod-5a891431a](https://www.linkedin.com/in/rudraksh-rathod-5a891431a/)
+- **GitHub:** [github.com/KrishnaDubale](https://github.com/KrishnaDubale)
+- **LinkedIn:** [linkedin.com/in/krishna-dubale-9bb186320](https://www.linkedin.com/in/krishna-dubale-9bb186320/)
 
 ---
 
 ## 📄 License
 
-MIT © 2026 Rudraksh Rathod
+MIT © 2026 Krishna Dubale
